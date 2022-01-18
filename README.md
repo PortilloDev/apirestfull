@@ -21,4 +21,4 @@ El proyecto también tiene instalada la librería de tailwindcss para la maqueta
 
 ## Contribución
 
-Para más información del proyecto puedes acceder a la página https://notasweb.me/entradas/crear-un-api-rest-en-laravel para obtener una información completa de la creación del proyecto.
+Para más información del proyecto puedes acceder a la página https://notasweb.me/entrada/crear-un-api-rest-en-laravel para obtener una información completa de la creación del proyecto.
